@@ -3,7 +3,7 @@
 # Cookbook Name:: rabbitmq
 # Recipe:: user_management
 #
-# Copyright 2013, Grégoire Seux
+# Copyright 2013, Greugoire Seux
 # Copyright 2013, Chef Software, Inc.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
